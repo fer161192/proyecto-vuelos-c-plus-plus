@@ -1,0 +1,8 @@
+EZE Ministro-Pistarini Ezeiza Argentina LAX Aeropuerto-Internacional-de-los-Angeles Los-Angeles EEUU 32859
+EZE Ministro-Pistarini Ezeiza Argentina FCO Aeropuerto-Internacional-de-Fiumicino Roma Italia 30277
+LAX Aeropuerto-Internacional-de-los-Angeles Los-Angeles EEUU FCO Aeropuerto-Internacional-de-Fiumicino Roma Italia 34225
+LAX Aeropuerto-Internacional-de-los-Angeles Los-Angeles EEUU GRU Aeropuerto-Internacional-de-Sao-Paulo-Guarulhos Sao-Paulo Brasil 69254
+FCO Aeropuerto-Internacional-de-Fiumicino Roma Italia GRU Aeropuerto-Internacional-de-Sao-Paulo-Guarulhos Sao-Paulo Brasil 52139
+FCO Aeropuerto-Internacional-de-Fiumicino Roma Italia TXL Otto-Lilielenthal Berlin Alemania 9193
+TXL Otto-Lilielenthal Berlin Alemania MAD Aeropuerto-de-Madrid-Barajas Madrid España 41235
+GRU Aeropuerto-Internacional-de-Sao-Paulo-Guarulhos Sao-Paulo Brasil MAD Aeropuerto-de-Madrid-Barajas Madrid España 48209
